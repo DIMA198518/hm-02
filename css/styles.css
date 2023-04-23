@@ -26,6 +26,8 @@ body{
     letter-spacing: 0.02em;
     text-decoration: none;
     text-transform: none;
+    --color-slate: #434455;
+    
 }
 
 
@@ -38,7 +40,7 @@ body{
    |============================
  */
 
-}
+
 .text-style-header-1 {
 	font-size: 56px;
 	font-family: "Roboto";
@@ -157,4 +159,37 @@ background-color:azure;}
   |============================
 */
 
+.header {
+    
 
+}
+.header-nav {
+}
+.logotype {
+    font-family:"Raleway",sans-serif;
+    font-weight: 800;
+font-size: 18px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--brand-color,#4d5ae5);
+}
+.studio{
+    color: var(--brand-color,#2e2f42);
+}
+
+
+
+.link {
+}
+.menu-list {
+}
+.list {
+}
+.meny-title {
+}
+.adres {
+}
+.list-adres {
+}
+.header-contact {
+}
