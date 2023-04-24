@@ -27,7 +27,7 @@ body{
     text-decoration: none;
     text-transform: none;
  color:#434455;
- background-color:--color-white #ffffff ;
+ background-color:var(--color-white);
 }
   
   
@@ -201,21 +201,22 @@ color: var(--brand-color,#4d5ae5);
   |============================
 */
 .section-one {
-    background-color:--color-grey #2e2f42; 
+    background-color:var(#2e2f42);
 }
 .mein-title {
+    text-align: center;
     font-size: 56px;
 	font-family: "Roboto";
 	font-weight: 700;
 	font-style: normal;
 	line-height: 1.07;
 	letter-spacing: 0.02em;
-    --color-white: #ffffff;
+    color: #ffffff;
 }
 
 .section-one-btn
  {
-    background-color: --color-iris #4d5ae5;
+    background-color:#4d5ae5;
     font-size: 16px;
 	font-family: "Roboto",sans-serif;
 	font-weight: 500;
@@ -226,7 +227,7 @@ color: var(--brand-color,#4d5ae5);
      
 }
 .section-one-btn:hover{
-    background-color:--color-ocean #404bbf; 
+    background-color:#404bbf; 
 }
-.section-one-btn:focus{background-color: #404bbf;}
+.section-one-btn:focus{background-color:#404bbf;}
 .section-one-btn{cursor: pointer;}
