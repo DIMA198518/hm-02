@@ -180,6 +180,9 @@ font-size: 20px;
   |============================
 */
 .section-two {
+   
+}
+.two-title {
     font-size: 20px;
 	font-family: "Roboto";
 	font-weight: 500;
@@ -187,8 +190,7 @@ font-size: 20px;
 	letter-spacing: 0.02em;
     color: --#2e2f42;
 }
-.two-title {
-}
+
 .meny-list {
 }
 
@@ -197,9 +199,17 @@ font-size: 20px;
 .title-str {
 }
 .desc {
+    color: -- #434455;
 }
 .title {
+    font-size: 20px;
+	font-family: "Roboto";
+	font-weight: 500;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+    color: --#2e2f42;
 }
+
 /**
   |============================
   | section-3
