@@ -26,8 +26,9 @@ body{
     letter-spacing: 0.02em;
     text-decoration: none;
     text-transform: none;
-    --color-slate: #434455;
-    
+
+    color: var(--color-slate #434455);
+background-color: #ffffff;
 }
 
 
@@ -98,8 +99,7 @@ body{
 	font-style: normal;
 	line-height: 24px;
 	letter-spacing: 0.04em;
-	text-decoration: none;
-	text-transform: none;
+	
 }
 .text-style-small-text {
 	font-size: 12px;
@@ -170,6 +170,7 @@ background-color:azure;}
     font-weight: 800;
 font-size: 18px;
 letter-spacing: 0.03em;
+line-height: 1.17;
 text-transform: uppercase;
 color: var(--brand-color,#4d5ae5);
 }
@@ -193,3 +194,38 @@ color: var(--brand-color,#4d5ae5);
 }
 .header-contact {
 }
+/**
+  |============================
+  | sektion1
+  |============================
+*/
+.section-one {
+    background-color:--color-grey #2e2f42; 
+}
+.mein-title {
+    font-size: 56px;
+	font-family: "Roboto";
+	font-weight: 700;
+	font-style: normal;
+	line-height: 1.07;
+	letter-spacing: 0.02em;
+    --color-white: #ffffff;
+}
+
+.section-one-btn
+ {
+    background-color: --color-iris #4d5ae5;
+    font-size: 16px;
+	font-family: "Roboto",sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+    color: #ffffff;    
+     
+}
+.section-one-btn:hover{
+    background-color:--color-ocean #404bbf; 
+}
+.section-one-btn:focus{background-color: #404bbf;}
+.section-one-btn{cursor: pointer;}
