@@ -158,20 +158,47 @@ color: var(--brand-color,#4d5ae5);
     cursor: pointer;
 }
 
+
+font-size: 20px;
+	font-family: "Roboto";
+	font-weight: 500;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+    color: --#2e2f42;
+
+
+
+
+
+
+
+
+
 /**
   |============================
   | section-two
   |============================
 */
 .section-two {
-	
-}
-.two-title {font-size: 20px;
+    font-size: 20px;
 	font-family: "Roboto";
 	font-weight: 500;
 	line-height: 1.2;
 	letter-spacing: 0.02em;
-    color: var(--#2e2f42);
+    color: --#2e2f42;
+}
+.two-title {
+}
+.meny-list {
+}
+
+.meny-title {
+}
+.title-str {
+}
+.desc {
+}
+.title {
 }
 /**
   |============================
@@ -211,10 +238,11 @@ color: var(--#2e2f42);
     text-transform: capitalize;
     color: var(--#2e2f42);
 }
-.meny-list {background-color:#FFFFFF ;
+.meny-list {
 
 }
 .list {
+    background-color: #FFFFFF;
 }
 .meny-title {
 }
@@ -222,13 +250,16 @@ color: var(--#2e2f42);
 }
 .title {
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    color: var(--#2e2f42);
+    text-align: center;
+    text-transform: capitalize;
+    color: --#2e2f42;
 }
 .desc {
     font-size: 16px;
+    color: --#434455 ;
 }
 /**
   |============================
@@ -236,7 +267,7 @@ color: var(--#2e2f42);
   |============================
 */
 .futer {
-    background-color: var(--#2e2f42);
+    background-color:#2e2f42 ;
 
 }
 .futer-logo {
@@ -246,10 +277,13 @@ font-size: 18px;
 letter-spacing: 0.03em;
 line-height: 1.17;
 text-transform: uppercase;
-color: var(--brand-color,#4d5ae5);
+background-color: #2e2f42;
 }  
 
 .link {
 }
 .desc {
+}
+.studio{
+    color:#f4f4fd ;
 }
