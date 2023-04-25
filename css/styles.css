@@ -94,14 +94,14 @@ color: var(--brand-color,#4d5ae5);
 color: --#2e2f42;
 }
 
-.link-list{
+.link{
     font-weight: 500;
     color: --#2e2f42;
     text-decoration: none;
 }
-.link-list:hover {color:#404bbf ;
+.link:hover {color:#404bbf ;
  }   
-.link-list:focus{
+.link:focus{
     color:#404bbf ;
 }
 
