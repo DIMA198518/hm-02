@@ -82,7 +82,7 @@ background-color:azure;}
 .header-nav {
 }
 .logotype {
-    font-family:"Raleway",sans-serif;
+ font-family:"Raleway",sans-serif;
 font-weight: 800;   
 font-size: 18px;
 letter-spacing: 0.03em;
@@ -91,12 +91,12 @@ text-transform: uppercase;
 color: var(--brand-color,#4d5ae5);
 }
 .studio{
-color: --#2e2f42;
+color:#2e2f42 ;
 }
 
 .link{
     font-weight: 500;
-    color: --#2e2f42;
+    color:#2e2f42;
     text-decoration: none;
 }
 .link:hover {color:#404bbf ;
