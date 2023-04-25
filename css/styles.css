@@ -369,3 +369,29 @@ cursor: pointer;
     color: #434455;
 
 }
+/**
+  |============================
+  | futer-portfolio
+  |============================
+*/
+.footer-portf {
+    background-color:#2e2f42 ;
+
+}
+.logo-futer {
+    font-family: 'Raleway', sans-serif,;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 00.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+.link {
+    text-decoration: none;
+}
+.stud-fut {
+    color: #f4f4fd;
+}
+.desc-fut {
+}
