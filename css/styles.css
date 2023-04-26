@@ -93,13 +93,17 @@ color:#2e2f42;
     color: #434455;
     text-decoration: none;
 }
+.link-link{
+    color: #2e2f42;
+}
 .link:hover {color:#404bbf ;
  }   
 .link:focus{
     color:#404bbf ;
 }
 
-
+.meny-title {
+}
 
 
 
@@ -109,8 +113,7 @@ color:#2e2f42;
 }
 .list {
 }
-.meny-title {
-}
+
 .adres {font-style: normal;
 }
 .list-adres {
@@ -379,7 +382,7 @@ cursor: pointer;
 
 }
 .logo-futer {
-    font-family: 'Raleway', sans-serif,;
+    font-family: 'Raleway',sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -387,6 +390,7 @@ cursor: pointer;
     text-transform: uppercase;
     color: #4d5ae5;
 }
+
 .link {
     text-decoration: none;
 }
