@@ -14,8 +14,8 @@
 }
 
 body {
-    background-color: var(--color-white);
-    color: var(--color-slate);
+  background-color: var(--color-white);
+  color: var(--color-slate);
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -42,8 +42,6 @@ body {
 .header-contact:focus {
   background-color: var(--color-ocean);
 }
-
-
 
 /**
   |============================
@@ -72,7 +70,12 @@ body {
 .link-color {
   color: var(--color-navy-blue-modal);
 }
-
+.link-color:hover {
+  color: var(--color-ocean);
+}
+.link-color:hover {
+  color: var(--color-ocean);
+}
 .adres {
   font-style: normal;
 }
@@ -228,7 +231,12 @@ body {
   font-weight: 500;
   color: var(--color-navy-blue);
 }
-
+.linc-stu:hover {
+  color: var(--color-ocean);
+}
+.link-stu:focus {
+  color: var(--color-ocean);
+}
 .studio {
   color: var(--color-navy-blue);
 }
