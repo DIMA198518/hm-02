@@ -73,7 +73,7 @@ body {
 .link-color:hover {
   color: var(--color-ocean);
 }
-.link-color:hover {
+.link-color:focus {
   color: var(--color-ocean);
 }
 .adres {
