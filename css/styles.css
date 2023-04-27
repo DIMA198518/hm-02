@@ -155,12 +155,12 @@ body {
   text-transform: capitalize;
   color: var(--color-navy-blue-modal);
 }
-
 /**
   |============================
   | section-4
   |============================
 */
+
 .section-four {
   background-color: var(--color-cloud);
 }
