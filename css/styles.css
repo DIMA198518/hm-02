@@ -69,13 +69,15 @@ body {
 .meny-list {
 }
 
-.linc:hover {
+.link-link:hover {
   color: var(--color-ocean);
 }
-.linc:focus {
+.link-link:focus {
   color: var(--color-ocean);
 }
-
+link:focus{
+    color: var(--color-ocean);
+}
 .adres {
   font-style: normal;
 }
