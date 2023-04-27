@@ -66,28 +66,23 @@ body {
   font-weight: 500;
   color: var(--color-slate);
 }
-.meny-list{
-
+.meny-list {
 }
-
 
 .linc:hover {
-color: var(--color-ocean);
-}
-.linc:focus{
-    color: var(--color-ocean);
-}
-
-.link:focus {
   color: var(--color-ocean);
 }
+.linc:focus {
+  color: var(--color-ocean);
+}
+
 .adres {
   font-style: normal;
 }
 .contact {
-    color: var(--color-slate);
-    text-decoration: none;
-  }
+  color: var(--color-slate);
+  text-decoration: none;
+}
 /**
   |============================
   | sektion1
@@ -239,12 +234,7 @@ color: var(--color-ocean);
   font-weight: 500;
   color: var(--color-navy-blue);
 }
-.linc:hover {
-    color: var(--color-ocean);
-    }
-    .linc:focus{
-        color: var(--color-ocean);
-    }
+
 .studio {
   color: var(--color-navy-blue);
 }
