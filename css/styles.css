@@ -231,10 +231,10 @@ body {
   font-weight: 500;
   color: var(--color-navy-blue);
 }
-.linc-stu:hover {
+.link:hover {
   color: var(--color-ocean);
 }
-.link-stu:focus {
+.link:focus {
   color: var(--color-ocean);
 }
 .studio {
@@ -246,12 +246,6 @@ body {
 .contact {
   color: var(--color-slate);
   text-decoration: none;
-}
-.contact:hover{
-    color: var(--color-ocean);
-}
-.contact:focus{
-    color: var(--color-ocean);
 }
 /**
   |============================
