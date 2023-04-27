@@ -67,8 +67,8 @@ body {
   color: var(--color-slate);
 }
 
-.link-color {
-  color: var(--color-navy-blue-modal);
+.linc {
+  color: var(--color-ocean);
 }
 .linc:hover {
 color: var(--color-ocean);
