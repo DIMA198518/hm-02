@@ -70,16 +70,20 @@ body {
 .link-color {
   color: var(--color-navy-blue-modal);
 }
-.link-color:hover {
-  color: var(--color-ocean);
+.linc-stu:hover {
+color: var(--color-ocean);
 }
-.link-color:focus {
+
+.link-stu:focus {
   color: var(--color-ocean);
 }
 .adres {
   font-style: normal;
 }
-
+.contact {
+    color: var(--color-slate);
+    text-decoration: none;
+  }
 /**
   |============================
   | sektion1
@@ -231,12 +235,7 @@ body {
   font-weight: 500;
   color: var(--color-navy-blue);
 }
-.link:hover {
-  color: var(--color-ocean);
-}
-.link:focus {
-  color: var(--color-ocean);
-}
+
 .studio {
   color: var(--color-navy-blue);
 }
