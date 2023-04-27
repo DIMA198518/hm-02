@@ -74,7 +74,7 @@ body {
 color: var(--color-ocean);
 }
 
-.linc:focus {
+.link:focus {
   color: var(--color-ocean);
 }
 .adres {
