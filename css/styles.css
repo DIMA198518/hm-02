@@ -69,10 +69,10 @@ body {
 .meny-list {
 }
 
-.link:hover {
+.link-one:hover {
   color: var(--color-ocean);
 }
-.link:focus {
+.link-one:focus {
   color: var(--color-ocean);
 }
 
