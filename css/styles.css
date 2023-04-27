@@ -33,17 +33,17 @@ body {
   | General classes
   |============================
 */
-
 .list {
   list-style: none;
 }
-
 .header-contact:hover {
   background-color: var(--azure);
 }
 .header-contact:focus {
   background-color: var(--azure);
 }
+
+
 
 /**
   |============================
@@ -68,6 +68,10 @@ body {
   font-weight: 500;
   color: var(--color-slate);
 }
+.link:hover {
+color: #404bbf;
+}
+    
 
 .link:focus {
   color: var(--color-ocean);
