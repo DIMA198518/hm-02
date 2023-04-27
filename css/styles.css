@@ -247,7 +247,12 @@ body {
   color: var(--color-slate);
   text-decoration: none;
 }
-
+.contact:hover{
+    color: var(--color-ocean);
+}
+.contact:focus{
+    color: var(--color-ocean);
+}
 /**
   |============================
   | Main
