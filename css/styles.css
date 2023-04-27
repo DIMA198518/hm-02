@@ -75,9 +75,7 @@ body {
 .link-link:focus {
   color: var(--color-ocean);
 }
-link:focus{
-    color: var(--color-ocean);
-}
+
 .adres {
   font-style: normal;
 }
