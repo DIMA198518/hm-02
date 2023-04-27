@@ -67,13 +67,15 @@ body {
   color: var(--color-slate);
 }
 .meny-list{
-    
+
 }
-.link {
-  color: var(--color-ocean);
-}
+
+
 .linc:hover {
 color: var(--color-ocean);
+}
+.linc:focus{
+    color: var(--color-ocean);
 }
 
 .link:focus {
