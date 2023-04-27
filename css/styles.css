@@ -70,11 +70,11 @@ body {
 .link-color {
   color: var(--color-navy-blue-modal);
 }
-.linc-stu:hover {
+.linc:hover {
 color: var(--color-ocean);
 }
 
-.link-stu:focus {
+.linc:focus {
   color: var(--color-ocean);
 }
 .adres {
@@ -231,7 +231,7 @@ color: var(--color-ocean);
   font-weight: 800;
   color: var(--color-iris);
 }
-.linc-stu {
+.linc {
   font-weight: 500;
   color: var(--color-navy-blue);
 }
