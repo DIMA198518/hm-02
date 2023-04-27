@@ -239,7 +239,12 @@ color: var(--color-ocean);
   font-weight: 500;
   color: var(--color-navy-blue);
 }
-
+.linc:hover {
+    color: var(--color-ocean);
+    }
+    .linc:focus{
+        color: var(--color-ocean);
+    }
 .studio {
   color: var(--color-navy-blue);
 }
