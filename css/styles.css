@@ -72,11 +72,11 @@ body {
     color: var(--color-grey);
 }
 .win:hover {
-  color: var(--color-ocean);
+  background-color: var(--color-ocean);
 
 }
 .win:focus {
-    color: var(--color-ocean);
+background-color: var(--color-ocean);
   }
 
 .adres {
