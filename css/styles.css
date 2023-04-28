@@ -74,12 +74,10 @@ background-color: var(--color-ocean);
 .link-one{
     color: var(--color-grey);
 }
-.link-one:hover {
-color: var(--color-ocean);
+.link-one:hover,
+.link-one:focus{
+    color: var(--color-ocean);
 }
-.link-one:focus {
-color: var(--color-ocean);
-} 
 
 .adres {
   font-style: normal;
