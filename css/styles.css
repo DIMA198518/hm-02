@@ -71,7 +71,7 @@ body {
 .link-one{
     color: var(--color-grey);
 }
-.link-one:hover {
+.win:hover {
   color: var(--color-ocean);
 
 }
