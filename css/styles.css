@@ -68,7 +68,9 @@ body {
 .link-one{
     font-weight: 500;
 }
-
+.link-one{
+    color: var(--color-grey);
+}
 .link-one:hover {
   color: var(--color-ocean);
 }
