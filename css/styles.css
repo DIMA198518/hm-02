@@ -62,10 +62,7 @@ body {
   color: var(--color-grey);
 }
 
-.link {
-  font-weight: 500;
-  color: var(--color-slate);
-}
+
 .meny-list {
 }
 
@@ -231,10 +228,8 @@ body {
   color: var(--color-iris);
 }
 .link {
-  font-weight: 500;
-  color: var(--color-navy-blue);
-}
-
+    text-decoration: none;
+  }
 .studio {
   color: var(--color-navy-blue);
 }
@@ -307,6 +302,3 @@ body {
   color: var(--color-cloud);
 }
 
-.link {
-  text-decoration: none;
-}
