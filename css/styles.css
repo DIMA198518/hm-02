@@ -27,21 +27,11 @@ body {
   text-decoration: none;
 }
 
-/**
-  |============================
-  | General classes
-  |============================
-*/
 .list {
   list-style: none;
 }
 
-.header-contact:hover { 
-background-color: var(--color-ocean);
-}
-.header-contact:focus {
-background-color: var(--color-ocean);
-}
+
 /**
   |============================
   | Header section
