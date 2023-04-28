@@ -57,13 +57,16 @@ body {
   text-transform: uppercase;
   color: var(--color-iris);
 }
-
 .studio {
   color: var(--color-grey);
 }
 
 
+
 .meny-list {
+}
+.link-one{
+    font-weight: 500;
 }
 
 .link-one:hover {
