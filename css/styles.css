@@ -71,12 +71,11 @@ body {
 .link-one{
     color: var(--color-grey);
 }
-.win:hover {
-  background-color: var(--color-ocean);
-
+.link-one:hover {
+color: var(--color-ocean);
 }
-.win:focus {
-background-color: var(--color-ocean);
+link-one:focus {
+color: var(--color-ocean);
   }
 
 .adres {
