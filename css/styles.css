@@ -76,7 +76,7 @@ color: var(--color-ocean);
 }
 link-one:focus {
 color: var(--color-ocean);
-  }
+}  
 
 .adres {
   font-style: normal;
