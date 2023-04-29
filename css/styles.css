@@ -31,7 +31,6 @@ body {
   list-style: none;
 }
 
-
 /**
   |============================
   | Header section
@@ -51,22 +50,19 @@ body {
   color: var(--color-grey);
 }
 
-
-
 .meny-list {
 }
-.link-one{
-    font-weight: 500;
+.link-one {
+  font-weight: 500;
 }
-.meny-title{
-
+.meny-title {
 }
-.link-one{
-    color: var(--color-grey);
+.link-one {
+  color: var(--color-grey);
 }
 .link-one:hover,
-.link-one:focus{
-    color: var(--color-ocean);
+.link-one:focus {
+  color: var(--color-ocean);
 }
 
 .adres {
@@ -76,8 +72,9 @@ body {
   color: var(--color-slate);
   text-decoration: none;
 }
-.contact:hover{
-    color: var(--color-ocean);
+.contact:hover,
+.contact:focus {
+  color: var(--color-ocean);
 }
 /**
   |============================
@@ -227,8 +224,8 @@ body {
   color: var(--color-iris);
 }
 .link {
-    text-decoration: none;
-  }
+  text-decoration: none;
+}
 .studio {
   color: var(--color-navy-blue);
 }
@@ -300,4 +297,3 @@ body {
 .stud-fut {
   color: var(--color-cloud);
 }
-
